@@ -4,3 +4,10 @@
 .nav-spacing {
     margin: 0 0 0 10px;
 }
+.image-link {
+    text-decoration: none;
+}
+.header-style {
+    text-align: center;
+    margin: 0 0 80px;
+}
